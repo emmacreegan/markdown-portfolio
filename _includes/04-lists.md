@@ -1,3 +1,3 @@
-Books
-TV
-Movies
+- Books
+- TV
+- Movies
